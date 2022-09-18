@@ -2,15 +2,13 @@
 <h3 align="center">Front End Web Developer Trainee</h3>
 
 <p>I am a Front End Developer who is exploring mordern technologies for mobile and web apps development. :wink:<p>
- 
- <p>🌱 I’m currently learning full stack web development at SoyHenry<p>
- <p>🔭 I’m looking for my first job in IT <p>
+
  <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david-freites-frontend-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-freites-frontend-developer" height="30" width="40" /></a>
 <a href="https://instagram.com/davvima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davvima" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/davvima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davvima" height="30" width="40" /></a>
+<a href="https://portfolio-davvima.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2282/2282299.png" alt="davvima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
